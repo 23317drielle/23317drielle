@@ -1,16 +1,18 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**23317drielle/23317drielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é maria adrielle
 
-Here are some ideas to get you started:
+- olá sou maria adrielle tenho 14 anos estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- @m_adrielle1 você entrar em contato comigo 📪
+
+- 23317drielle
+- 
+- @m_adrielle1
+
+![](![image](https://github.com/user-attachments/assets/3036a255-8713-4cc3-87f3-cf8255dca55e)
+
+
+
